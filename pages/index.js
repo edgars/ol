@@ -29,7 +29,7 @@ export default function Landing() {
               <div className="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
                 <div className="pr-12">
                   <h1 className="text-white font-semibold text-5xl">
-                    Ética, respeito e <br></br>clientes satisfeitos
+                    Ética, precisão e clientes satisfeitos
                   </h1>
                   <p className="mt-4 text-lg text-gray-300">
                   O Escritório Osvaldo Lopes Advocacia & Consultoria está à cinco anos no mercado. Nasceu do sonho de seu idealizador, o advogado Osvaldo Lopes, de prestar um serviço personalizado, de qualidade; com ética; clareza e transparência ao cliente. 
