@@ -405,8 +405,7 @@ export default function Landing() {
                   Rio Maria - Pará
                 </h6>
                 <p className="mt-2 mb-4 text-gray-500">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card's content.
+                Avenida 06, n° 432, Centro, Rio Maria
                 </p>
               </div>
               <div className="w-full lg:w-3/12 px-4 text-center">
@@ -417,8 +416,7 @@ export default function Landing() {
                   Xinguara - Pará
                 </h5>
                 <p className="mt-2 mb-4 text-gray-500">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card's content.
+                Breve
                 </p>
               </div>
               <div className="w-full lg:w-3/12 px-4 text-center">
